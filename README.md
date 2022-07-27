@@ -1,3 +1,5 @@
+# auto renew letsencrypt zimbra
+
 auto-renew.sh adalah script yang gunakan untuk renew ssl letsencrypt pada mail server zimbra 
 
 copy paste script auto-renew.sh lalu tambahkan cron job sesuai dengan kebutuhan 
